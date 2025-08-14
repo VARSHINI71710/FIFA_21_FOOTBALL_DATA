@@ -3,12 +3,12 @@ FIFA 21 Player Stats Analysis
 Dataset: FIFA 21 Complete Player Dataset
 
 This project explores FIFA 21 player statistics using Python for data analysis, visualization, and feature engineering. It demonstrates insights on player attributes, performance, and trends.
-
+__
 Project Overview
 
 
 The dataset contains detailed information about FIFA 21 players, including age, nationality, club, overall rating, potential, wage, market value, and positions. The analysis aims to understand player performance, distribution of attributes, and extract actionable insights.
-
+__
 Key Tasks Performance
 
 Data Exploration: Checked dataset structure, missing values, duplicates, and basic statistics.
@@ -22,16 +22,15 @@ Feature Engineering: Created new columns such as elite players, high growth, nor
 NumPy & Linear Algebra: Performed vector operations, normalization, and dot products for numerical insights.
 
 Insights: Identified top players, top clubs, common nationalities, and relationships between overall and potential ratings.
-
+__
 Tools & Libraries
-
 
 Python: Pandas, NumPy, Matplotlib, Seaborn
 
 Jupyter Notebook / Google Colab
 
 This analysis provides a foundation for deeper exploration of player performance and trends in FIFA 21.
-
+__
 Conclusion
 
 Elite Players: Players with overall ≥ 85 are mostly concentrated in top European clubs.
